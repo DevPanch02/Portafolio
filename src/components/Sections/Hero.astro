@@ -7,7 +7,7 @@ import Phone from "@/icons/Phone.astro"
 
 import X from "@/icons/X.astro"
 import LinkedIn from "@/icons/Linkedin.astro"
-import GitHub from "@/icons/Github.astro"
+import GitHub from "@/icons/GitHub1.astro"
 import WorldMap from "@/icons/WorldMap.astro"
 
 const { name, label, image, email, phone, profiles } = basics
@@ -80,7 +80,7 @@ const PrintInfo = [email, phone, LinkedinUrl].filter(Boolean).join(" • ")
                         return (
                             <a
                                 href={url}
-                                title={`Visitar perfil de ${name} en ${network}`}
+                                title={`Visitar perfil de ${username} en ${network}`}
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
@@ -129,7 +129,7 @@ const PrintInfo = [email, phone, LinkedinUrl].filter(Boolean).join(" • ")
         aspect-ratio: 1/1;
         object-fit: cover;
         width: 100px;
-        border-radius: 6px;
+        border-radius: 16px;
     }
 
     span{

@@ -1,34 +1,29 @@
 {
     "basics": {
       "name": "Edison David Molina Panchi",
-      "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-      "image": "https://avatars.githubusercontent.com/u/1561955?v=4",
-      "email": "miduga@gmail.com",
-      "phone": "+34 688888888",
+      "label": "Apasionado en conocer nuevas tecnologias,",
+      "image": "my.jpg",
+      "email": "molinaedison5@gmail.com",
+      "phone": "+593 963965153",
       "url": "https://midu.dev",
-      "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+      "summary": "Persona polivalente y capaz de realizar varias tareas simultáneamente. Con experiencia en ambientes de trabajo donde se valora el compromiso y la capacidad de trabajar en equipo. Me caracterizo por mi dinamismo, proactividad y entusiasmo. Tengo buenos conocimientos digitales. Busco desarrollarme profesionalmente en el sector TI.",
       "location": {
         "address": "",
         "postalCode": "08820",
-        "city": "el Prat de Llobregat",
+        "city": "Latacunga",
         "countryCode": "ES",
-        "region": "España"
+        "region": "Ecuador"
       },
       "profiles": [
         {
           "network": "LinkedIn",
-          "username": "midudev",
-          "url": "https://linkedin.com/in/midudev"
-        },
-        {
-          "network": "X",
-          "username": "midudev",
-          "url": "https://x.com/midudev"
+          "username": "Edison Molina",
+          "url": "https://www.linkedin.com/in/edison-molina-2043b117a/"
         },
         {
           "network": "GitHub",
-          "username": "midudev",
-          "url": "https://github.com/midudev"
+          "username": "Edison Molina",
+          "url": "https://github.com/DevPanch02"
         }
       ]
     },
@@ -78,9 +73,9 @@
       ]
     }],
     "education": [{
-      "institution": "Universitat Oberta de Catalunya",
-      "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Ingeniero de Software",
+      "institution": "Universidad Tecnica de Cotopaxi",
+      "url": "https://www.utc.edu.ec/",
+      "area": "Ingeniero en Informatica y Sistemas Computacionales",
       "studyType": "Bachelor",
       "startDate": "2003-01-01",
       "endDate": "2009-01-01",
@@ -124,28 +119,28 @@
         ]
       },
       {
-        "name": "JavaScript",
+        "name": "JavaScript Básico",
         "level": "Master",
         "keywords": [
           "Desarrollo Web", "Frontend", "Backend", "Fullstack"
         ]
       },
       {
-        "name": "Tailwind",
+        "name": "Python - Django",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
         ]
       },
       {
-        "name": "TypeScript",
+        "name": "CSharp - .NET",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
         ]
       },
       {
-        "name": "Node",
+        "name": "Sql Server",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Backend", "JavaScript", "Servidor"
@@ -173,19 +168,27 @@
         ]
       },
       {
-        "name": "Next.js",
+        "name": "Power BI",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
         ]
       },
       {
-        "name": "React",
+        "name": "Paquete Office",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      },
+      {
+        "name": "Trello",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
         ]
       }
+
     ],
     "languages": [
       {
